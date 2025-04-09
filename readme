@@ -1,0 +1,20 @@
+
+
+A lightweight Learning Management System (LMS) built with Node.js. This project handles basic course management functionality and backend structure for managing users, content, and more.
+
+## Features
+
+- Node.js backend with package-managed dependencies
+- Basic user and content management setup
+- Organized file structure for future expansion
+
+## Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org/) installed
+
+### Installation
+```bash
+git clone https://github.com/LandoCommando75/LMS4.git
+cd LMS4
+npm install
